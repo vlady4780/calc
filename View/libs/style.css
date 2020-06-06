@@ -1,0 +1,38 @@
+    body {
+        margin: 20px;
+        padding: 0px;
+    }
+    
+    button {
+        width: 100%;
+        height: 100%;
+    }
+    
+    table {
+        display: block;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #DC4C46;
+        width: 350px;
+        height: 430px;
+        border-radius: 25px;
+    }
+    
+    table td button {
+        display: block;
+        width: 70px;
+        height: 70px;
+        font-size: 20px;
+    }
+    
+    #mostrar {
+        background-color: aliceblue;
+        width: 300px;
+        height: 80px;
+        display: block;
+        overflow-x: scroll;
+        text-align: right;
+        border-radius: 15px;
+        line-height: 60px;
+        font-size: 15px;
+    }
